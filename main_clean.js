@@ -98,7 +98,7 @@ console.log(arrayInvalidCards);
 console.log(idInvalidCardCompanies(arrayInvalidCards));
 
 
-//console.log('kur beee');
+
 
 
 
